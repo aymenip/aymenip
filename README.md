@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/nemyaatx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nemyaatx" height="30" width="40" /></a>
-<a href="https://instagram.com/sbar6aaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sbar6aaa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc8i7ocbte8dohs8kguvj3ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc8i7ocbte8dohs8kguvj3ng" height="30" width="40" /></a>
+<a href="https://fb.com/nemyaatx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nemyaatx" height="30" width="40" /></a>
+<a href="https://instagram.com/sbar6aaa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sbar6aaa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC8i7OcBTe8DoHS8kguvj3Ng" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc8i7ocbte8dohs8kguvj3ng" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
